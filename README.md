@@ -1,1 +1,1 @@
-# miniproject2
+# Simulating Stock Returns Using Probability Distributions
